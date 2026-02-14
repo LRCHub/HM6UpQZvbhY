@@ -1,0 +1,168 @@
+{
+  "version": 1,
+  "base_track": "WE GO",
+  "base_artist": "fromis_9",
+  "createdAt": "2026-02-14T11:17:10.891853Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Everywhere We Go",
+      "artist": "Kenny Chesney",
+      "has_synced": true,
+      "path": "select/01_Everywhere_We_Go_Kenny_Chesney.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Angel, Angel, Down We Go Together",
+      "artist": "Morrissey",
+      "has_synced": true,
+      "path": "select/02_Angel,_Angel,_Down_We_Go_Together_Morrissey.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Here We Go",
+      "artist": "Mr. Scruff",
+      "has_synced": false,
+      "path": "select/03_Here_We_Go_Mr._Scruff.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "We Go Home Together",
+      "artist": "Mount Kimbie feat. James Blake",
+      "has_synced": true,
+      "path": "select/04_We_Go_Home_Together_Mount_Kimbie_feat._James_Blake.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "We Go Home Together (Feat. James Blake)",
+      "artist": "Mount Kimbie",
+      "has_synced": true,
+      "path": "select/05_We_Go_Home_Together_(Feat._James_Blake)_Mount_Kimbie.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "If We Go to the West",
+      "artist": "Nina Nastasia",
+      "has_synced": false,
+      "path": "select/06_If_We_Go_to_the_West_Nina_Nastasia.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Where Did We Go Wrong",
+      "artist": "Ben Harper",
+      "has_synced": true,
+      "path": "select/07_Where_Did_We_Go_Wrong_Ben_Harper.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "We Go Down Slowly Rising",
+      "artist": "Primal Scream",
+      "has_synced": true,
+      "path": "select/08_We_Go_Down_Slowly_Rising_Primal_Scream.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Where Do We Go From Here (with Blake)",
+      "artist": "Hayley Westenra",
+      "has_synced": false,
+      "path": "select/09_Where_Do_We_Go_From_Here_(with_Blake)_Hayley_Westenra.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Here We Go",
+      "artist": "Girls Aloud",
+      "has_synced": false,
+      "path": "select/10_Here_We_Go_Girls_Aloud.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Here We Go",
+      "artist": "Lene",
+      "has_synced": true,
+      "path": "select/11_Here_We_Go_Lene.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Here We Go",
+      "artist": "Robyn",
+      "has_synced": true,
+      "path": "select/12_Here_We_Go_Robyn.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Where Do We Go from Here?",
+      "artist": "Jamiroquai",
+      "has_synced": true,
+      "path": "select/13_Where_Do_We_Go_from_Here_Jamiroquai.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Here We Go Again",
+      "artist": "Sigma feat. Louisa",
+      "has_synced": true,
+      "path": "select/14_Here_We_Go_Again_Sigma_feat._Louisa.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Here We Go Again",
+      "artist": "Sigma",
+      "has_synced": true,
+      "path": "select/15_Here_We_Go_Again_Sigma.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Here We Go… Again (feat. Tyler, The Creator)",
+      "artist": "The Weeknd feat. Tyler, The Creator",
+      "has_synced": true,
+      "path": "select/16_Here_We_Go..._Again_(feat._Tyler,_The_Creator)_The_Weeknd_feat._Tyler,_The_Creator.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Here We Go… Again",
+      "artist": "The Weeknd",
+      "has_synced": true,
+      "path": "select/17_Here_We_Go..._Again_The_Weeknd.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "We Go Back",
+      "artist": "Animal Collective",
+      "has_synced": true,
+      "path": "select/18_We_Go_Back_Animal_Collective.lrc"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "We Go On",
+      "artist": "The Avalanches feat. Cola Boyy & Mick Jones",
+      "has_synced": true,
+      "path": "select/19_We_Go_On_The_Avalanches_feat._Cola_Boyy_&_Mick_Jones.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "WE GO",
+      "artist": "fromis_9",
+      "has_synced": false,
+      "path": "select/pl_01_WE_GO_fromis_9.txt"
+    }
+  ]
+}
